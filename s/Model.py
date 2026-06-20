@@ -6,7 +6,7 @@ class DataPreperFromTrafficToTensore(Dataset):
 
     def __init__(self):
         super().__init__()
-
+#ITS FAKE DATA FOR EXAMPLE YOU CAN USE REAL DATA
         traffic =[
     120,125,130,128,135,
     140,145,150,148,155,
